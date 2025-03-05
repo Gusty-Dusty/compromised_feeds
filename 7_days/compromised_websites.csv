@@ -104,4 +104,8 @@ type,value,event_tag,comment,first_seen
 "domain","ydh7.shop","smartapesg","https://infosec.exchange/@monitorsg/114110216057152823","2025-03-05T14:08:36.693000+00:00"
 "ip-dst","82.153.134.38","SocGholish","https://infosec.exchange/@monitorsg/114110218838100645","2025-03-05T14:09:19.127000+00:00"
 "domain","nevada.mandros.us","SocGholish","https://infosec.exchange/@monitorsg/114110218838100645","2025-03-05T14:09:19.127000+00:00"
+"url","https://willchar.com/6t1w.js","kongtuke","https://infosec.exchange/@monitorsg/114110468487362396","2025-03-05T15:12:48.471000+00:00"
+"url","https://willchar.com/js.php","kongtuke","https://infosec.exchange/@monitorsg/114110468487362396","2025-03-05T15:12:48.471000+00:00"
+"url","http://64.94.84.217:8080","kongtuke","https://infosec.exchange/@monitorsg/114110468487362396","2025-03-05T15:12:48.471000+00:00"
+"domain","willchar.com","kongtuke","https://infosec.exchange/@monitorsg/114110468487362396","2025-03-05T15:12:48.471000+00:00"
 
