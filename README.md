@@ -7,6 +7,7 @@ Currently Supported Campaigns:
 - Kongtuke
 - SmartApeSG
 - [TA2726](https://www.proofpoint.com/us/blog/threat-insight/update-fake-updates-two-new-actors-and-new-mac-malware)
+- TA582 (AKA Mintsloader)
 
 ## Feeds generated from MonitorSG and additional research
 - https://infosec.exchange/@monitorsg
