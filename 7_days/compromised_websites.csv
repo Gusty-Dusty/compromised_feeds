@@ -1,6 +1,4 @@
 type,value,event_tag,comment,first_seen
-"ip-dst","38.180.137.245","SocGholish","https://infosec.exchange/@monitorsg/114070588897383533","2025-02-26T14:10:54.218000+00:00"
-"domain","mail.aestheticfina.com","SocGholish","https://infosec.exchange/@monitorsg/114070588897383533","2025-02-26T14:10:54.218000+00:00"
 "ip-dst","194.180.191.67","smartapesg","https://infosec.exchange/@monitorsg/114071058232495154","2025-02-26T16:10:15.710000+00:00"
 "sha256","5e765ab6ef4884f725e30d333c240846e2bb1fc0ed63d832f6f5f61b6cecc9ea","smartapesg","https://infosec.exchange/@monitorsg/114071058232495154","2025-02-26T16:10:15.710000+00:00"
 "url","https://7serv.top/work/ups.php","smartapesg","https://infosec.exchange/@monitorsg/114071058232495154","2025-02-26T16:10:15.710000+00:00"
@@ -75,4 +73,12 @@ type,value,event_tag,comment,first_seen
 "url","https://khusinhthaidanphuong.top/work/original.js","smartapesg","https://infosec.exchange/@monitorsg/114106021071838480","2025-03-04T20:21:46.292000+00:00"
 "url","https://khusinhthaidanphuong.top/work/index.php","smartapesg","https://infosec.exchange/@monitorsg/114106021071838480","2025-03-04T20:21:46.292000+00:00"
 "domain","khusinhthaidanphuong.top","smartapesg","https://infosec.exchange/@monitorsg/114106021071838480","2025-03-04T20:21:46.292000+00:00"
+"ip-dst","5.181.159.60","smartapesg","https://infosec.exchange/@monitorsg/114110216057152823","2025-03-05T14:08:36.693000+00:00"
+"sha256","c2864874382002171f5254dac807acf8eb7a0d7295b3f6ec0a2f7641ac4fa34e","smartapesg","https://infosec.exchange/@monitorsg/114110216057152823","2025-03-05T14:08:36.693000+00:00"
+"url","https://ydh7.shop/files/index.php","smartapesg","https://infosec.exchange/@monitorsg/114110216057152823","2025-03-05T14:08:36.693000+00:00"
+"url","https://ydh7.shop/files/fill.php","smartapesg","https://infosec.exchange/@monitorsg/114110216057152823","2025-03-05T14:08:36.693000+00:00"
+"url","https://ydh7.shop/files/original.js","smartapesg","https://infosec.exchange/@monitorsg/114110216057152823","2025-03-05T14:08:36.693000+00:00"
+"domain","ydh7.shop","smartapesg","https://infosec.exchange/@monitorsg/114110216057152823","2025-03-05T14:08:36.693000+00:00"
+"ip-dst","82.153.134.38","SocGholish","https://infosec.exchange/@monitorsg/114110218838100645","2025-03-05T14:09:19.127000+00:00"
+"domain","nevada.mandros.us","SocGholish","https://infosec.exchange/@monitorsg/114110218838100645","2025-03-05T14:09:19.127000+00:00"
 
