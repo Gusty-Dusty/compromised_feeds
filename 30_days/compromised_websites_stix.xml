@@ -53,7 +53,7 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
 	xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	 id="ORGNAME:STIXPackage-74a67f0b-9d9b-4b4f-a2af-a970b66868e4" version="1.1.1" timestamp="2025-03-05T11:05:10.707367">
+	 id="ORGNAME:STIXPackage-fcbf35bc-fa15-4577-a8ab-e956695c6da0" version="1.1.1" timestamp="2025-03-05T11:35:10.677175">
     <stix:STIX_Header>
         <stix:Title>Export from ORGNAME's MISP</stix:Title>
         <stix:Package_Intent xsi:type="stixVocabs:PackageIntentVocab-1.0">Threat Report</stix:Package_Intent>
@@ -6433,50 +6433,6 @@
                 <cybox:Object id="ORGNAME:DomainName-59773fa6-39d5-48ca-be38-d8ba2a22de76">
                     <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
                         <DomainNameObj:Value condition="Equals">vbcsd.top</DomainNameObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-05T00:32:59+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-065004e9-2f1f-44ca-ab4c-0650a4b40672" timestamp="2025-03-05T00:32:59+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: http://ffjihcnfkhihlmd.top/1.php (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>
-            <indicator:Description>https://infosec.exchange/@monitorsg/113939637357406907</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-065004e9-2f1f-44ca-ab4c-0650a4b40672">
-                <cybox:Object id="ORGNAME:URI-065004e9-2f1f-44ca-ab4c-0650a4b40672">
-                    <cybox:Properties xsi:type="URIObj:URIObjectType" type="URL">
-                        <URIObj:Value condition="Equals">http://ffjihcnfkhihlmd.top/1.php</URIObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-05T00:32:59+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-cf0c887c-acd6-4a91-a173-e919cca4887c" timestamp="2025-03-05T00:32:59+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: ffjihcnfkhihlmd.top (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
-            <indicator:Description>https://infosec.exchange/@monitorsg/113939637357406907</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-cf0c887c-acd6-4a91-a173-e919cca4887c">
-                <cybox:Object id="ORGNAME:DomainName-cf0c887c-acd6-4a91-a173-e919cca4887c">
-                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
-                        <DomainNameObj:Value condition="Equals">ffjihcnfkhihlmd.top</DomainNameObj:Value>
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
