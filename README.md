@@ -6,6 +6,7 @@ Currently Supported Campaigns:
 - SocGholish
 - Kongtuke
 - SmartApeSG
+- [TA2726](https://www.proofpoint.com/us/blog/threat-insight/update-fake-updates-two-new-actors-and-new-mac-malware)
 
 ## Feeds generated from MonitorSG and additional research
 - https://infosec.exchange/@monitorsg
