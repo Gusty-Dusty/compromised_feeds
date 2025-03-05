@@ -1,10 +1,4 @@
 type,value,event_tag,comment,first_seen
-"ip-dst","194.180.191.229","smartapesg","https://infosec.exchange/@monitorsg/114070342347641879","2025-02-26T13:08:12.175000+00:00"
-"sha256","2d6b438e3c757e60339da4a5e4ea4fe278c2f73e019a88a5b9663f8fb79ea2e7","smartapesg","https://infosec.exchange/@monitorsg/114070342347641879","2025-02-26T13:08:12.175000+00:00"
-"url","https://dealermobil.top/work/index.php","smartapesg","https://infosec.exchange/@monitorsg/114070342347641879","2025-02-26T13:08:12.175000+00:00"
-"url","https://dealermobil.top/work/ups.php","smartapesg","https://infosec.exchange/@monitorsg/114070342347641879","2025-02-26T13:08:12.175000+00:00"
-"url","https://dealermobil.top/work/original.js","smartapesg","https://infosec.exchange/@monitorsg/114070342347641879","2025-02-26T13:08:12.175000+00:00"
-"domain","dealermobil.top","smartapesg","https://infosec.exchange/@monitorsg/114070342347641879","2025-02-26T13:08:12.175000+00:00"
 "ip-dst","38.180.137.245","SocGholish","https://infosec.exchange/@monitorsg/114070588897383533","2025-02-26T14:10:54.218000+00:00"
 "domain","mail.aestheticfina.com","SocGholish","https://infosec.exchange/@monitorsg/114070588897383533","2025-02-26T14:10:54.218000+00:00"
 "ip-dst","194.180.191.67","smartapesg","https://infosec.exchange/@monitorsg/114071058232495154","2025-02-26T16:10:15.710000+00:00"
