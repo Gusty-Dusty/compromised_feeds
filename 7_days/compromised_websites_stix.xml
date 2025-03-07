@@ -53,56 +53,12 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
 	xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	 id="ORGNAME:STIXPackage-33deb706-2b84-4138-9ddb-d8ef3ce438a5" version="1.1.1" timestamp="2025-03-07T17:35:05.623491">
+	 id="ORGNAME:STIXPackage-c5ab4375-9413-477e-a6c5-3af536f7d2f0" version="1.1.1" timestamp="2025-03-07T18:35:05.487227">
     <stix:STIX_Header>
         <stix:Title>Export from ORGNAME's MISP</stix:Title>
         <stix:Package_Intent xsi:type="stixVocabs:PackageIntentVocab-1.0">Threat Report</stix:Package_Intent>
     </stix:STIX_Header>
     <stix:Indicators>
-        <stix:Indicator id="ORGNAME:Indicator-68f5931c-6a76-4ac8-97fb-df3c9a1c5775" timestamp="2025-03-05T14:38:43+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: https://wherever-answered-issn-garcia.trycloudflare.com/cloudfla (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>
-            <indicator:Description>https://infosec.exchange/@monitorsg/114082854918823510</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-68f5931c-6a76-4ac8-97fb-df3c9a1c5775">
-                <cybox:Object id="ORGNAME:URI-68f5931c-6a76-4ac8-97fb-df3c9a1c5775">
-                    <cybox:Properties xsi:type="URIObj:URIObjectType" type="URL">
-                        <URIObj:Value condition="Equals">https://wherever-answered-issn-garcia.trycloudflare.com/cloudfla</URIObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-05T14:38:43+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-89fa618d-7677-4690-9d6d-7b859113abce" timestamp="2025-03-05T14:38:43+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: wherever-answered-issn-garcia.trycloudflare.com (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
-            <indicator:Description>https://infosec.exchange/@monitorsg/114082854918823510</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-89fa618d-7677-4690-9d6d-7b859113abce">
-                <cybox:Object id="ORGNAME:DomainName-89fa618d-7677-4690-9d6d-7b859113abce">
-                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
-                        <DomainNameObj:Value condition="Equals">wherever-answered-issn-garcia.trycloudflare.com</DomainNameObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-05T14:38:43+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
         <stix:Indicator id="ORGNAME:Indicator-869a07f0-9d8c-4d51-9ab1-04c4f904eba8" timestamp="2025-03-05T14:38:42+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: https://netsolut.com/js.php (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>

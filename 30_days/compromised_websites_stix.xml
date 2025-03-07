@@ -53,7 +53,7 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
 	xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	 id="ORGNAME:STIXPackage-374c2fb1-4a57-43c1-af9f-8396b0fbea4f" version="1.1.1" timestamp="2025-03-07T17:35:10.430622">
+	 id="ORGNAME:STIXPackage-2f6838e4-575d-4a65-b239-3f8e29b82c46" version="1.1.1" timestamp="2025-03-07T18:35:10.285564">
     <stix:STIX_Header>
         <stix:Title>Export from ORGNAME's MISP</stix:Title>
         <stix:Package_Intent xsi:type="stixVocabs:PackageIntentVocab-1.0">Threat Report</stix:Package_Intent>
@@ -5631,116 +5631,6 @@
                 <cybox:Object id="ORGNAME:DomainName-48822f05-e9e8-4c1c-a2c3-b937b7ac3e13">
                     <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
                         <DomainNameObj:Value condition="Equals">divexpo.com</DomainNameObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-05T14:39:22+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-3579903a-d58a-4f49-a6f5-1f98f4eaa8d9" timestamp="2025-03-05T14:39:22+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: http://hkdecchgkhgleal.top/1.php (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>
-            <indicator:Description>https://infosec.exchange/@monitorsg/113952618398823677</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-3579903a-d58a-4f49-a6f5-1f98f4eaa8d9">
-                <cybox:Object id="ORGNAME:URI-3579903a-d58a-4f49-a6f5-1f98f4eaa8d9">
-                    <cybox:Properties xsi:type="URIObj:URIObjectType" type="URL">
-                        <URIObj:Value condition="Equals">http://hkdecchgkhgleal.top/1.php</URIObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-05T14:39:22+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-a2fc6ac8-9f22-4781-a86d-2ca7a4db354c" timestamp="2025-03-05T14:39:22+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: https://lifewis.com/3w1q.js (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>
-            <indicator:Description>https://infosec.exchange/@monitorsg/113952618398823677</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-a2fc6ac8-9f22-4781-a86d-2ca7a4db354c">
-                <cybox:Object id="ORGNAME:URI-a2fc6ac8-9f22-4781-a86d-2ca7a4db354c">
-                    <cybox:Properties xsi:type="URIObj:URIObjectType" type="URL">
-                        <URIObj:Value condition="Equals">https://lifewis.com/3w1q.js</URIObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-05T14:39:22+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-ca5888c4-ca78-42c2-b1cd-45b848eea59a" timestamp="2025-03-05T14:39:22+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: https://lifewis.com/js.php (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>
-            <indicator:Description>https://infosec.exchange/@monitorsg/113952618398823677</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-ca5888c4-ca78-42c2-b1cd-45b848eea59a">
-                <cybox:Object id="ORGNAME:URI-ca5888c4-ca78-42c2-b1cd-45b848eea59a">
-                    <cybox:Properties xsi:type="URIObj:URIObjectType" type="URL">
-                        <URIObj:Value condition="Equals">https://lifewis.com/js.php</URIObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-05T14:39:22+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-c9407b16-f635-468a-a806-3b85e5eba5b0" timestamp="2025-03-05T14:39:22+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: lifewis.com (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
-            <indicator:Description>https://infosec.exchange/@monitorsg/113952618398823677</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-c9407b16-f635-468a-a806-3b85e5eba5b0">
-                <cybox:Object id="ORGNAME:DomainName-c9407b16-f635-468a-a806-3b85e5eba5b0">
-                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
-                        <DomainNameObj:Value condition="Equals">lifewis.com</DomainNameObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-05T14:39:22+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-1f71872b-2106-4a4a-b48c-4dc9eea4e365" timestamp="2025-03-05T14:39:22+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: hkdecchgkhgleal.top (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
-            <indicator:Description>https://infosec.exchange/@monitorsg/113952618398823677</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-1f71872b-2106-4a4a-b48c-4dc9eea4e365">
-                <cybox:Object id="ORGNAME:DomainName-1f71872b-2106-4a4a-b48c-4dc9eea4e365">
-                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
-                        <DomainNameObj:Value condition="Equals">hkdecchgkhgleal.top</DomainNameObj:Value>
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
