@@ -1,12 +1,4 @@
 type,value,event_tag,comment,first_seen
-"ip-dst","194.180.191.67","smartapesg","https://infosec.exchange/@monitorsg/114081913949410561","2025-02-28T14:11:00.800000+00:00"
-"sha256","b8d55dd365d80aeb2c94cde092f7991eb8a8f3e118561da18f1609a4d201eb4b","smartapesg","https://infosec.exchange/@monitorsg/114081913949410561","2025-02-28T14:11:00.800000+00:00"
-"url","https://couterfv.top/work/index.php","smartapesg","https://infosec.exchange/@monitorsg/114081913949410561","2025-02-28T14:11:00.800000+00:00"
-"url","https://couterfv.top/work/original.js","smartapesg","https://infosec.exchange/@monitorsg/114081913949410561","2025-02-28T14:11:00.800000+00:00"
-"url","https://couterfv.top/work/ups.php","smartapesg","https://infosec.exchange/@monitorsg/114081913949410561","2025-02-28T14:11:00.800000+00:00"
-"domain","couterfv.top","smartapesg","https://infosec.exchange/@monitorsg/114081913949410561","2025-02-28T14:11:00.800000+00:00"
-"ip-dst","149.28.125.75","SocGholish","https://infosec.exchange/@monitorsg/114081916279069124","2025-02-28T14:11:36.347000+00:00"
-"domain","windows.envisionfonddulac.net","SocGholish","https://infosec.exchange/@monitorsg/114081916279069124","2025-02-28T14:11:36.347000+00:00"
 "url","https://wherever-answered-issn-garcia.trycloudflare.com/cloudfla","kongtuke","https://infosec.exchange/@monitorsg/114082854918823510","2025-02-28T18:10:18.859000+00:00"
 "domain","wherever-answered-issn-garcia.trycloudflare.com","kongtuke","https://infosec.exchange/@monitorsg/114082854918823510","2025-02-28T18:10:18.859000+00:00"
 "url","https://netsolut.com/js.php","kongtuke","https://infosec.exchange/@monitorsg/114083980688940221","2025-02-28T22:56:36.747000+00:00"
