@@ -359,4 +359,6 @@ type,value,event_tag,comment,first_seen
 "domain","nmealljlabdcgkc.top","TA582","TA582","2025-03-06T00:00:00.000000+00:00"
 "domain","publication.garyjobeferguson.com","SocGholish","SocGholish","2025-02-07T00:00:00.000000+00:00"
 "ip-dst","142.202.242.173","SocGholish","SocGholish","2025-02-07T00:00:00.000000+00:00"
+"ip-dst","38.180.136.155","SocGholish","https://infosec.exchange/@monitorsg/114121701059753015","2025-03-07T14:49:23.923000+00:00"
+"domain","billing.shrewsburysocialclub.org","SocGholish","https://infosec.exchange/@monitorsg/114121701059753015","2025-03-07T14:49:23.923000+00:00"
 
