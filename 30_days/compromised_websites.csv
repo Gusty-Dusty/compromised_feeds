@@ -291,7 +291,7 @@ type,value,event_tag,comment,first_seen
 "domain","willchar.com","kongtuke","https://infosec.exchange/@monitorsg/114110468487362396","2025-03-05T15:12:48.471000+00:00"
 "domain","groundrats.org","TA2726","TA2726","2024-12-02T00:00:00.000000+00:00"
 "domain","goneflower.org","TA2726","TA2726","2024-12-02T00:00:00.000000+00:00"
-"domain","foundedbrounded.org","TA2726","","2024-12-02T00:00:00.000000+00:00"
+"domain","foundedbrounded.org","TA2726","TA2726","2024-12-02T00:00:00.000000+00:00"
 "domain","blessedwirrow.org","TA2726","TA2726","2024-11-14T00:00:00.000000+00:00"
 "domain","brickedpack.com","TA2726","TA2726","2024-07-23T00:00:00.000000+00:00"
 "domain","rednosehorse.com","TA2726","TA2726","2025-01-16T00:00:00.000000+00:00"
@@ -371,4 +371,6 @@ type,value,event_tag,comment,first_seen
 "url","http://64.94.84.217:8080","kongtuke","https://infosec.exchange/@monitorsg/114121777997633802","2025-03-07T15:08:57.906000+00:00"
 "url","https://mallternet.com/6t5t.js","kongtuke","https://infosec.exchange/@monitorsg/114121777997633802","2025-03-07T15:08:57.906000+00:00"
 "domain","mallternet.com","kongtuke","https://infosec.exchange/@monitorsg/114121777997633802","2025-03-07T15:08:57.906000+00:00"
+"domain","mqicaapikukqjvp.top","TA582","TA582","2025-03-07T00:00:00.000000+00:00"
+"domain","gcaddjbecgancdl.top","TA582","TA582","2025-03-07T00:00:00.000000+00:00"
 
