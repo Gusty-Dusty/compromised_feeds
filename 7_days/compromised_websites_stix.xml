@@ -53,34 +53,12 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
 	xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	 id="ORGNAME:STIXPackage-0b07b38b-ac3a-40a6-8c50-3a90b1f5ee3a" version="1.1.1" timestamp="2025-03-08T18:05:05.962389">
+	 id="ORGNAME:STIXPackage-cdd2c5d7-6d8e-4588-a25f-3dbf36d46255" version="1.1.1" timestamp="2025-03-09T00:05:05.311369">
     <stix:STIX_Header>
         <stix:Title>Export from ORGNAME's MISP</stix:Title>
         <stix:Package_Intent xsi:type="stixVocabs:PackageIntentVocab-1.0">Threat Report</stix:Package_Intent>
     </stix:STIX_Header>
     <stix:Indicators>
-        <stix:Indicator id="ORGNAME:Indicator-baa534a5-f8bb-4f28-bc64-82877aac6022" timestamp="2025-03-05T16:56:44+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: ljhcaemkhjeakje.top (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
-            <indicator:Description>TA582</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-baa534a5-f8bb-4f28-bc64-82877aac6022">
-                <cybox:Object id="ORGNAME:DomainName-baa534a5-f8bb-4f28-bc64-82877aac6022">
-                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
-                        <DomainNameObj:Value condition="Equals">ljhcaemkhjeakje.top</DomainNameObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-05T16:56:44+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
         <stix:Indicator id="ORGNAME:Indicator-44557dba-cab8-4840-b0ae-5ceb25adc513" timestamp="2025-03-05T14:38:40+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: https://wqenpene.com/5r1r.js (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>
@@ -2047,7 +2025,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-a5ce370b-5c74-469e-9940-df4e5b14b1e2" timestamp="2025-03-08T18:02:26+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-a5ce370b-5c74-469e-9940-df4e5b14b1e2" timestamp="2025-03-09T00:00:18+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: 62.60.154.114 (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2059,7 +2037,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:26+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:18+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2069,7 +2047,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-4cf658ca-9c37-41e6-bf28-ae7a16a234da" timestamp="2025-03-08T18:02:26+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-4cf658ca-9c37-41e6-bf28-ae7a16a234da" timestamp="2025-03-09T00:00:18+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: pluralism.themancav.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2081,7 +2059,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:26+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:18+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2091,7 +2069,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-fdcc6c6d-05a8-45b6-acf7-3404fde59e23" timestamp="2025-03-08T18:02:27+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-fdcc6c6d-05a8-45b6-acf7-3404fde59e23" timestamp="2025-03-09T00:00:18+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: 216.146.25.130 (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2103,7 +2081,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:27+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:18+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2113,7 +2091,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-f27b9adc-0363-4461-b5b1-e527f208450b" timestamp="2025-03-08T18:02:27+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-f27b9adc-0363-4461-b5b1-e527f208450b" timestamp="2025-03-09T00:00:18+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: trademark.iglesiaelarca.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2125,7 +2103,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:27+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:18+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2135,7 +2113,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-310c8704-80db-4fe1-b034-47581c3e6f03" timestamp="2025-03-08T18:02:27+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-310c8704-80db-4fe1-b034-47581c3e6f03" timestamp="2025-03-09T00:00:19+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: 193.107.109.223 (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2147,7 +2125,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:27+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:19+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2157,7 +2135,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-b703c0a5-319f-471c-9b47-aad7067254bc" timestamp="2025-03-08T18:02:27+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-b703c0a5-319f-471c-9b47-aad7067254bc" timestamp="2025-03-09T00:00:19+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: punch.lockwood2creations.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2169,7 +2147,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:27+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:19+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2179,7 +2157,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-10f71faf-0e9e-4799-b62b-a1357388c3d0" timestamp="2025-03-08T18:02:27+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-10f71faf-0e9e-4799-b62b-a1357388c3d0" timestamp="2025-03-09T00:00:19+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: 198.98.59.241 (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2191,7 +2169,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:27+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:19+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2201,7 +2179,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-c6b4d04f-b473-43e0-9328-2c7814dba2e1" timestamp="2025-03-08T18:02:27+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-c6b4d04f-b473-43e0-9328-2c7814dba2e1" timestamp="2025-03-09T00:00:19+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: clients.dedicatedservicesusa.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2213,7 +2191,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:27+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:19+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2223,7 +2201,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-10f0dce8-901d-4981-865d-da136b127433" timestamp="2025-03-08T18:02:27+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-10f0dce8-901d-4981-865d-da136b127433" timestamp="2025-03-09T00:00:19+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: 45.76.250.221 (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2235,7 +2213,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:27+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:19+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2245,7 +2223,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-a1d053a9-a9e4-45b1-a678-c550b824a48a" timestamp="2025-03-08T18:02:27+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-a1d053a9-a9e4-45b1-a678-c550b824a48a" timestamp="2025-03-09T00:00:19+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: dashnex.plexusmarket.fund (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2257,7 +2235,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:27+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:19+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2267,7 +2245,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-81d59010-ae04-443a-89da-85705aa76947" timestamp="2025-03-08T18:02:27+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-81d59010-ae04-443a-89da-85705aa76947" timestamp="2025-03-09T00:00:19+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: 185.76.79.50 (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2279,7 +2257,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:27+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:19+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2289,7 +2267,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-fc46da16-300f-41e1-b008-0823718576c2" timestamp="2025-03-08T18:02:28+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-fc46da16-300f-41e1-b008-0823718576c2" timestamp="2025-03-09T00:00:19+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: virtual.urban-orthodontics.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2301,7 +2279,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:28+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:19+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2311,7 +2289,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-39cbf92f-fdca-4e32-ab25-c6744aae320d" timestamp="2025-03-08T18:02:28+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-39cbf92f-fdca-4e32-ab25-c6744aae320d" timestamp="2025-03-09T00:00:19+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: 51.15.16.116 (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2323,7 +2301,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:28+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:19+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2333,7 +2311,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-70e81fd8-3852-43f4-b50c-5d98696c88ac" timestamp="2025-03-08T18:02:28+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-70e81fd8-3852-43f4-b50c-5d98696c88ac" timestamp="2025-03-09T00:00:19+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: direct.brucesinghinvest.icu (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2345,7 +2323,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:28+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:19+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2355,7 +2333,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-8f5945c8-f9cd-4f73-a2c2-02bd53b10be6" timestamp="2025-03-08T18:02:28+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-8f5945c8-f9cd-4f73-a2c2-02bd53b10be6" timestamp="2025-03-09T00:00:20+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: 170.75.160.84 (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2367,7 +2345,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:28+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:20+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2377,7 +2355,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-be90b7d4-c731-47e9-b3ee-0e9abf46d2b1" timestamp="2025-03-08T18:02:28+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-be90b7d4-c731-47e9-b3ee-0e9abf46d2b1" timestamp="2025-03-09T00:00:20+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: mentor.omgwowhq.org (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2389,7 +2367,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:28+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:20+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2399,7 +2377,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-fc381542-26b5-4fca-a491-6fc1b49e7f5e" timestamp="2025-03-08T18:02:28+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-fc381542-26b5-4fca-a491-6fc1b49e7f5e" timestamp="2025-03-09T00:00:20+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: 217.195.153.158 (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2411,7 +2389,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:28+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:20+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2421,7 +2399,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-954ef8b0-7d7b-4f1a-8103-777abfe81d1c" timestamp="2025-03-08T18:02:28+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-954ef8b0-7d7b-4f1a-8103-777abfe81d1c" timestamp="2025-03-09T00:00:20+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: cpanel.gtiyeshua.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2433,7 +2411,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:28+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:20+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2443,7 +2421,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-f9a6a61d-bcaf-42c9-b552-ec8994576ba0" timestamp="2025-03-08T18:02:28+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-f9a6a61d-bcaf-42c9-b552-ec8994576ba0" timestamp="2025-03-09T00:00:20+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: 217.144.191.125 (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2455,7 +2433,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:28+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:20+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2465,7 +2443,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-a81687f9-eda9-4f4b-9ec6-4f8fb69cdc5f" timestamp="2025-03-08T18:02:28+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-a81687f9-eda9-4f4b-9ec6-4f8fb69cdc5f" timestamp="2025-03-09T00:00:20+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: circle.innovativecsportal.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2477,7 +2455,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:28+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:20+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2487,7 +2465,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-0257ac41-1291-4b9f-9052-965da7d04444" timestamp="2025-03-08T18:02:28+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-0257ac41-1291-4b9f-9052-965da7d04444" timestamp="2025-03-09T00:00:20+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: 91.240.202.172 (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2499,7 +2477,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:28+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:20+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2509,7 +2487,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-03e8e4dc-d1e1-4658-a2f5-8073b308fd14" timestamp="2025-03-08T18:02:29+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-03e8e4dc-d1e1-4658-a2f5-8073b308fd14" timestamp="2025-03-09T00:00:20+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: customer.thewayofmoney.us (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>stage 2</indicator:Description>
@@ -2521,7 +2499,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:29+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:20+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2531,7 +2509,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-1de2aac5-9b39-4593-9634-c02001ae300a" timestamp="2025-03-08T18:02:24+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-1de2aac5-9b39-4593-9634-c02001ae300a" timestamp="2025-03-09T00:00:16+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: apiexplorerzone.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2543,7 +2521,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:24+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:16+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2553,7 +2531,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-9ca11269-ce11-466a-a545-e88040ba6aeb" timestamp="2025-03-08T18:02:24+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-9ca11269-ce11-466a-a545-e88040ba6aeb" timestamp="2025-03-09T00:00:16+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: groundrats.org (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2565,7 +2543,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:24+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:16+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2575,7 +2553,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-e9bb0a5b-382b-4240-a104-f2b35ce7c3d3" timestamp="2025-03-08T18:02:24+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-e9bb0a5b-382b-4240-a104-f2b35ce7c3d3" timestamp="2025-03-09T00:00:16+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: goneflower.org (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2587,7 +2565,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:24+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:16+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2597,7 +2575,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-d6f92f7c-961f-41f8-ae31-3b7ede250b15" timestamp="2025-03-08T18:02:25+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-d6f92f7c-961f-41f8-ae31-3b7ede250b15" timestamp="2025-03-09T00:00:16+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: foundedbrounded.org (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2609,7 +2587,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:25+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:16+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2619,7 +2597,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-bae98fb9-bd01-410f-b182-02475fa690d1" timestamp="2025-03-08T18:02:25+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-bae98fb9-bd01-410f-b182-02475fa690d1" timestamp="2025-03-09T00:00:17+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: blessedwirrow.org (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2631,7 +2609,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:25+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:17+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2641,7 +2619,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-8c0c2024-0ee2-4661-ad12-bd926d901191" timestamp="2025-03-08T18:02:25+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-8c0c2024-0ee2-4661-ad12-bd926d901191" timestamp="2025-03-09T00:00:17+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: brickedpack.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2653,7 +2631,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:25+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:17+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2663,7 +2641,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-2d386539-1b8e-4086-a45d-1ac40c3b16c0" timestamp="2025-03-08T18:02:25+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-2d386539-1b8e-4086-a45d-1ac40c3b16c0" timestamp="2025-03-09T00:00:17+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: rednosehorse.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2675,7 +2653,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:25+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:17+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2685,7 +2663,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-840e935b-7c94-4570-bde4-5b2900ddc0a0" timestamp="2025-03-08T18:02:25+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-840e935b-7c94-4570-bde4-5b2900ddc0a0" timestamp="2025-03-09T00:00:17+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: rapiddevapi.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2697,7 +2675,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:25+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:17+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2707,7 +2685,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-54ba7b02-b7a9-4d9c-96fd-6df60522399b" timestamp="2025-03-08T18:02:25+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-54ba7b02-b7a9-4d9c-96fd-6df60522399b" timestamp="2025-03-09T00:00:17+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: newgoodfoodmarket.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2719,7 +2697,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:25+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:17+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2729,7 +2707,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-d7be1ff0-6b00-4881-97bb-418cb5b7fc3d" timestamp="2025-03-08T18:02:25+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-d7be1ff0-6b00-4881-97bb-418cb5b7fc3d" timestamp="2025-03-09T00:00:17+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: blacksaltys.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2741,7 +2719,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:25+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:17+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2751,7 +2729,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-0d634936-7c4b-4c24-9fe0-d9008ca28651" timestamp="2025-03-08T18:02:25+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-0d634936-7c4b-4c24-9fe0-d9008ca28651" timestamp="2025-03-09T00:00:17+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: losttwister.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2763,7 +2741,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:25+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:17+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2773,7 +2751,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-87c884a9-5659-4169-a608-af90065799b9" timestamp="2025-03-08T18:02:25+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-87c884a9-5659-4169-a608-af90065799b9" timestamp="2025-03-09T00:00:17+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: digdonger.org (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2785,7 +2763,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:25+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:17+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2795,7 +2773,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-e282785e-18b4-4f92-aaa5-f20aba6a1dbe" timestamp="2025-03-08T18:02:26+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-e282785e-18b4-4f92-aaa5-f20aba6a1dbe" timestamp="2025-03-09T00:00:17+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: smthwentwrong.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2807,7 +2785,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:26+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:17+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2817,7 +2795,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-4c201381-fc43-46cb-b182-ba567c6baed2" timestamp="2025-03-08T18:02:26+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-4c201381-fc43-46cb-b182-ba567c6baed2" timestamp="2025-03-09T00:00:17+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: modernkeys.org (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2829,7 +2807,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:26+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:17+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2839,7 +2817,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-e4c312b0-1b38-4c27-9ddf-717eec70d80d" timestamp="2025-03-08T18:02:26+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-e4c312b0-1b38-4c27-9ddf-717eec70d80d" timestamp="2025-03-09T00:00:18+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: leatherbook.org (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2851,7 +2829,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:26+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:18+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2861,7 +2839,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-7883cf43-28be-4b12-a54e-030cb4c774a5" timestamp="2025-03-08T18:02:26+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-7883cf43-28be-4b12-a54e-030cb4c774a5" timestamp="2025-03-09T00:00:18+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: blackshelter.org (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2873,7 +2851,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:26+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:18+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2883,7 +2861,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-e19a37b3-41ed-468c-96ee-5c4bd45c75de" timestamp="2025-03-08T18:02:26+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-e19a37b3-41ed-468c-96ee-5c4bd45c75de" timestamp="2025-03-09T00:00:18+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: hearforpower.org (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2895,7 +2873,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:26+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:18+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2905,7 +2883,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-1b4ffba0-a6f6-4abf-a247-2f79cab3041f" timestamp="2025-03-08T18:02:26+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-1b4ffba0-a6f6-4abf-a247-2f79cab3041f" timestamp="2025-03-09T00:00:18+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: packedbrick.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>TA2726</indicator:Description>
@@ -2917,7 +2895,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:26+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:18+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2927,7 +2905,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-5b88a171-9f0e-4acb-b030-5d88a1003c4c" timestamp="2025-03-08T18:02:29+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-5b88a171-9f0e-4acb-b030-5d88a1003c4c" timestamp="2025-03-09T00:00:20+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Payload delivery: publication.garyjobeferguson.com (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
             <indicator:Description>SocGholish</indicator:Description>
@@ -2939,7 +2917,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:29+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:20+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
@@ -2949,7 +2927,7 @@
                 </stixCommon:Identity>
             </indicator:Producer>
         </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-e64182bc-33d1-4409-af7a-9d40ed0e17e8" timestamp="2025-03-08T18:02:29+00:00" xsi:type='indicator:IndicatorType'>
+        <stix:Indicator id="ORGNAME:Indicator-e64182bc-33d1-4409-af7a-9d40ed0e17e8" timestamp="2025-03-09T00:00:21+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: 142.202.242.173 (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
             <indicator:Description>SocGholish</indicator:Description>
@@ -2961,7 +2939,7 @@
                     </cybox:Properties>
                 </cybox:Object>
             </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-08T18:02:29+00:00">
+            <indicator:Confidence timestamp="2025-03-09T00:00:21+00:00">
                 <stixCommon:Value>High</stixCommon:Value>
                 <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
             </indicator:Confidence>
