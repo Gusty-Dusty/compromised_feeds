@@ -353,4 +353,12 @@ type,value,event_tag,comment,first_seen
 "url","https://viloriterso.icu/files/fill.php","smartapesg","https://infosec.exchange/@monitorsg/114138772368432082","2025-03-10T15:10:51.426000+00:00"
 "url","https://viloriterso.icu/files/index.php","smartapesg","https://infosec.exchange/@monitorsg/114138772368432082","2025-03-10T15:10:51.426000+00:00"
 "domain","viloriterso.icu","smartapesg","https://infosec.exchange/@monitorsg/114138772368432082","2025-03-10T15:10:51.426000+00:00"
+"ip-dst","128.254.146.19","SocGholish","https://infosec.exchange/@monitorsg/114144185827188904","2025-03-11T14:07:34.252000+00:00"
+"domain","catalog.sjsailboats.com","SocGholish","https://infosec.exchange/@monitorsg/114144185827188904","2025-03-11T14:07:34.252000+00:00"
+"ip-dst","194.180.191.17","smartapesg","https://infosec.exchange/@monitorsg/114144182704198023","2025-03-11T14:06:46.598000+00:00"
+"sha256","d3f4e6264739e3c6908bb8bba04560ad347233722aa1dab5e2c4fad24fa95f2a","smartapesg","https://infosec.exchange/@monitorsg/114144182704198023","2025-03-11T14:06:46.598000+00:00"
+"url","https://rasin.shop/files/fis.php","smartapesg","https://infosec.exchange/@monitorsg/114144182704198023","2025-03-11T14:06:46.598000+00:00"
+"url","https://rasin.shop/files/index.php","smartapesg","https://infosec.exchange/@monitorsg/114144182704198023","2025-03-11T14:06:46.598000+00:00"
+"url","https://rasin.shop/files/original.js","smartapesg","https://infosec.exchange/@monitorsg/114144182704198023","2025-03-11T14:06:46.598000+00:00"
+"domain","rasin.shop","smartapesg","https://infosec.exchange/@monitorsg/114144182704198023","2025-03-11T14:06:46.598000+00:00"
 
