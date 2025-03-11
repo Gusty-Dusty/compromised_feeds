@@ -1,10 +1,4 @@
 type,value,event_tag,comment,first_seen
-"ip-dst","194.180.191.67","smartapesg","https://infosec.exchange/@monitorsg/114106021071838480","2025-03-04T20:21:46.292000+00:00"
-"sha256","18cf2b4e035622afac069aed6302bb20428a65692fcf068e4766cdc852e1dce2","smartapesg","https://infosec.exchange/@monitorsg/114106021071838480","2025-03-04T20:21:46.292000+00:00"
-"url","https://khusinhthaidanphuong.top/work/index.php","smartapesg","https://infosec.exchange/@monitorsg/114106021071838480","2025-03-04T20:21:46.292000+00:00"
-"url","https://khusinhthaidanphuong.top/work/fine.php","smartapesg","https://infosec.exchange/@monitorsg/114106021071838480","2025-03-04T20:21:46.292000+00:00"
-"url","https://khusinhthaidanphuong.top/work/original.js","smartapesg","https://infosec.exchange/@monitorsg/114106021071838480","2025-03-04T20:21:46.292000+00:00"
-"domain","khusinhthaidanphuong.top","smartapesg","https://infosec.exchange/@monitorsg/114106021071838480","2025-03-04T20:21:46.292000+00:00"
 "domain","lbxqdgsiecxcauf.top","TA582","TA582","2025-03-05T00:00:00.000000+00:00"
 "domain","fhilfndenkhfldg.top","TA582","TA582","2025-03-05T00:00:00.000000+00:00"
 "ip-dst","5.181.159.60","smartapesg","https://infosec.exchange/@monitorsg/114110216057152823","2025-03-05T14:08:36.693000+00:00"
