@@ -372,4 +372,6 @@ type,value,event_tag,comment,first_seen
 "url","https://doodstream.shop/files/index.php","smartapesg","https://infosec.exchange/@monitorsg/114149620412046120","2025-03-12T13:09:39.436000+00:00"
 "url","https://doodstream.shop/files/fis.php","smartapesg","https://infosec.exchange/@monitorsg/114149620412046120","2025-03-12T13:09:39.436000+00:00"
 "domain","doodstream.shop","smartapesg","https://infosec.exchange/@monitorsg/114149620412046120","2025-03-12T13:09:39.436000+00:00"
+"ip-dst","144.202.18.225","SocGholish","https://infosec.exchange/@monitorsg/114150088096132992","2025-03-12T15:08:35.724000+00:00"
+"domain","webmail.denver-computer.com","SocGholish","https://infosec.exchange/@monitorsg/114150088096132992","2025-03-12T15:08:35.724000+00:00"
 
