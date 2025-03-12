@@ -1,12 +1,4 @@
 type,value,event_tag,comment,first_seen
-"ip-dst","5.181.159.60","smartapesg","https://infosec.exchange/@monitorsg/114110216057152823","2025-03-05T14:08:36.693000+00:00"
-"sha256","c2864874382002171f5254dac807acf8eb7a0d7295b3f6ec0a2f7641ac4fa34e","smartapesg","https://infosec.exchange/@monitorsg/114110216057152823","2025-03-05T14:08:36.693000+00:00"
-"url","https://ydh7.shop/files/original.js","smartapesg","https://infosec.exchange/@monitorsg/114110216057152823","2025-03-05T14:08:36.693000+00:00"
-"url","https://ydh7.shop/files/index.php","smartapesg","https://infosec.exchange/@monitorsg/114110216057152823","2025-03-05T14:08:36.693000+00:00"
-"url","https://ydh7.shop/files/fill.php","smartapesg","https://infosec.exchange/@monitorsg/114110216057152823","2025-03-05T14:08:36.693000+00:00"
-"domain","ydh7.shop","smartapesg","https://infosec.exchange/@monitorsg/114110216057152823","2025-03-05T14:08:36.693000+00:00"
-"ip-dst","82.153.134.38","SocGholish","https://infosec.exchange/@monitorsg/114110218838100645","2025-03-05T14:09:19.127000+00:00"
-"domain","nevada.mandros.us","SocGholish","https://infosec.exchange/@monitorsg/114110218838100645","2025-03-05T14:09:19.127000+00:00"
 "url","https://willchar.com/6t1w.js","kongtuke","https://infosec.exchange/@monitorsg/114110468487362396","2025-03-05T15:12:48.471000+00:00"
 "url","https://willchar.com/js.php","kongtuke","https://infosec.exchange/@monitorsg/114110468487362396","2025-03-05T15:12:48.471000+00:00"
 "url","http://64.94.84.217:8080","kongtuke","https://infosec.exchange/@monitorsg/114110468487362396","2025-03-05T15:12:48.471000+00:00"
