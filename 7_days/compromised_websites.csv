@@ -1,6 +1,4 @@
 type,value,event_tag,comment,first_seen
-"ip-dst","38.180.136.155","SocGholish","https://infosec.exchange/@monitorsg/114121701059753015","2025-03-07T14:49:23.923000+00:00"
-"domain","billing.shrewsburysocialclub.org","SocGholish","https://infosec.exchange/@monitorsg/114121701059753015","2025-03-07T14:49:23.923000+00:00"
 "url","https://mallternet.com/js.php","kongtuke","https://infosec.exchange/@monitorsg/114121777997633802","2025-03-07T15:08:57.906000+00:00"
 "url","http://64.94.84.217:8080","kongtuke","https://infosec.exchange/@monitorsg/114121777997633802","2025-03-07T15:08:57.906000+00:00"
 "url","https://mallternet.com/6t5t.js","kongtuke","https://infosec.exchange/@monitorsg/114121777997633802","2025-03-07T15:08:57.906000+00:00"
