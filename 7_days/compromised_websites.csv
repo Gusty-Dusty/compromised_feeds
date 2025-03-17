@@ -1,16 +1,4 @@
 type,value,event_tag,comment,first_seen
-"url","http://64.94.84.217:8080","kongtuke","https://infosec.exchange/@monitorsg/114138293989915223","2025-03-10T13:09:11.948000+00:00"
-"url","https://samaxwell.com/js.php","kongtuke","https://infosec.exchange/@monitorsg/114138293989915223","2025-03-10T13:09:11.948000+00:00"
-"url","https://samaxwell.com/5r4r.js","kongtuke","https://infosec.exchange/@monitorsg/114138293989915223","2025-03-10T13:09:11.948000+00:00"
-"domain","samaxwell.com","kongtuke","https://infosec.exchange/@monitorsg/114138293989915223","2025-03-10T13:09:11.948000+00:00"
-"ip-dst","194.180.191.17","smartapesg","https://infosec.exchange/@monitorsg/114138294905522805","2025-03-10T13:09:25.919000+00:00"
-"sha256","d659315ca90d8f2e61b4fdc624b2f34d57dc5ccdd024e402088e3b7ffe6d45fa","smartapesg","https://infosec.exchange/@monitorsg/114138294905522805","2025-03-10T13:09:25.919000+00:00"
-"url","https://gmt-a.shop/files/original.js","smartapesg","https://infosec.exchange/@monitorsg/114138294905522805","2025-03-10T13:09:25.919000+00:00"
-"url","https://gmt-a.shop/files/fill.php","smartapesg","https://infosec.exchange/@monitorsg/114138294905522805","2025-03-10T13:09:25.919000+00:00"
-"url","https://gmt-a.shop/files/index.php","smartapesg","https://infosec.exchange/@monitorsg/114138294905522805","2025-03-10T13:09:25.919000+00:00"
-"domain","gmt-a.shop","smartapesg","https://infosec.exchange/@monitorsg/114138294905522805","2025-03-10T13:09:25.919000+00:00"
-"ip-dst","23.133.88.61","SocGholish","https://infosec.exchange/@monitorsg/114138298707404447","2025-03-10T13:10:23.931000+00:00"
-"domain","forum.envisionfonddulac.info","SocGholish","https://infosec.exchange/@monitorsg/114138298707404447","2025-03-10T13:10:23.931000+00:00"
 "url","https://viloriterso.icu/files/original.js","smartapesg","https://infosec.exchange/@monitorsg/114138772368432082","2025-03-10T15:10:51.426000+00:00"
 "url","https://viloriterso.icu/files/fill.php","smartapesg","https://infosec.exchange/@monitorsg/114138772368432082","2025-03-10T15:10:51.426000+00:00"
 "url","https://viloriterso.icu/files/index.php","smartapesg","https://infosec.exchange/@monitorsg/114138772368432082","2025-03-10T15:10:51.426000+00:00"
@@ -72,4 +60,6 @@ type,value,event_tag,comment,first_seen
 "url","https://vononline.com/js.php","kongtuke","https://infosec.exchange/@monitorsg/114176744959443940","2025-03-17T08:07:47.177000+00:00"
 "url","https://vononline.com/3e4r.js","kongtuke","https://infosec.exchange/@monitorsg/114176744959443940","2025-03-17T08:07:47.177000+00:00"
 "domain","vononline.com","kongtuke","https://infosec.exchange/@monitorsg/114176744959443940","2025-03-17T08:07:47.177000+00:00"
+"ip-dst","207.174.31.222","SocGholish","https://infosec.exchange/@monitorsg/114177939146694197","2025-03-17T13:11:29.035000+00:00"
+"domain","login.icvpartners.com","SocGholish","https://infosec.exchange/@monitorsg/114177939146694197","2025-03-17T13:11:29.035000+00:00"
 
