@@ -53,56 +53,12 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
 	xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	 id="ORGNAME:STIXPackage-2c07f82c-d17a-4a06-9442-7684c33a54e1" version="1.1.1" timestamp="2025-03-16T00:05:05.387384">
+	 id="ORGNAME:STIXPackage-2da44421-870a-4676-920b-e3d36b99722e" version="1.1.1" timestamp="2025-03-17T00:05:05.919767">
     <stix:STIX_Header>
         <stix:Title>Export from ORGNAME's MISP</stix:Title>
         <stix:Package_Intent xsi:type="stixVocabs:PackageIntentVocab-1.0">Threat Report</stix:Package_Intent>
     </stix:STIX_Header>
     <stix:Indicators>
-        <stix:Indicator id="ORGNAME:Indicator-30a6ef48-649a-4eed-9141-afc364ca38b0" timestamp="2025-03-11T20:00:23+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: aabmieglhidedln.top (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
-            <indicator:Description>TA582</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-30a6ef48-649a-4eed-9141-afc364ca38b0">
-                <cybox:Object id="ORGNAME:DomainName-30a6ef48-649a-4eed-9141-afc364ca38b0">
-                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
-                        <DomainNameObj:Value condition="Equals">aabmieglhidedln.top</DomainNameObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-11T20:00:23+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-18515b9f-b07d-4d8b-bb43-ef32afa81437" timestamp="2025-03-11T20:00:02+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: cnksjpyuuxpalkr.top (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
-            <indicator:Description>TA582</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-18515b9f-b07d-4d8b-bb43-ef32afa81437">
-                <cybox:Object id="ORGNAME:DomainName-18515b9f-b07d-4d8b-bb43-ef32afa81437">
-                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
-                        <DomainNameObj:Value condition="Equals">cnksjpyuuxpalkr.top</DomainNameObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-11T20:00:02+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
         <stix:Indicator id="ORGNAME:Indicator-602b4976-d487-46af-9860-cee9f0300e16" timestamp="2025-03-10T13:30:03+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: http://64.94.84.217:8080 (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>
