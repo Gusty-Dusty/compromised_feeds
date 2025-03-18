@@ -1,28 +1,26 @@
 # GustyDusty DriveBy Host file
-# Last Modified 2025-03-17T20:35:01.272585
-
-# TA582
-127.0.0.1  helbbcmejnnbmej.top
-127.0.0.1  dcuehjvvbqcoulc.top
-127.0.0.1  pucxumkixhitdxk.top
-127.0.0.1  aihehafllejmime.top
+# Last Modified 2025-03-18T00:05:01.989495
 
 # smartapesg
 127.0.0.1  movtime76.shop
+127.0.0.1  rasin.shop
 127.0.0.1  doodstream.shop
 127.0.0.1  glitterygadgets.shop
-127.0.0.1  rasin.shop
 
 # SocGholish
-127.0.0.1  login.icvpartners.com
-127.0.0.1  webmail.denver-computer.com
 127.0.0.1  secure.lme-co.com
+127.0.0.1  webmail.denver-computer.com
+127.0.0.1  login.icvpartners.com
 127.0.0.1  catalog.sjsailboats.com
 
 # kongtuke
 127.0.0.1  vononline.com
-127.0.0.1  samaxwell.com
 127.0.0.1  opteme.com
 127.0.0.1  srpkoa.com
-127.0.0.1  paulsss.com
+127.0.0.1  samaxwell.com
 127.0.0.1  cyberetc.com
+127.0.0.1  paulsss.com
+
+# TA582
+127.0.0.1  aihehafllejmime.top
+127.0.0.1  dcuehjvvbqcoulc.top
