@@ -1,10 +1,4 @@
 type,value,event_tag,comment,first_seen
-"ip-dst","194.180.191.17","smartapesg","https://infosec.exchange/@monitorsg/114149620412046120","2025-03-12T13:09:39.436000+00:00"
-"sha256","a8930f667d7b8d2b11908769157390d46b15d2040ed7cd4b76496146502439d9","smartapesg","https://infosec.exchange/@monitorsg/114149620412046120","2025-03-12T13:09:39.436000+00:00"
-"url","https://doodstream.shop/files/original.js","smartapesg","https://infosec.exchange/@monitorsg/114149620412046120","2025-03-12T13:09:39.436000+00:00"
-"url","https://doodstream.shop/files/index.php","smartapesg","https://infosec.exchange/@monitorsg/114149620412046120","2025-03-12T13:09:39.436000+00:00"
-"url","https://doodstream.shop/files/fis.php","smartapesg","https://infosec.exchange/@monitorsg/114149620412046120","2025-03-12T13:09:39.436000+00:00"
-"domain","doodstream.shop","smartapesg","https://infosec.exchange/@monitorsg/114149620412046120","2025-03-12T13:09:39.436000+00:00"
 "ip-dst","144.202.18.225","SocGholish","https://infosec.exchange/@monitorsg/114150088096132992","2025-03-12T15:08:35.724000+00:00"
 "domain","webmail.denver-computer.com","SocGholish","https://infosec.exchange/@monitorsg/114150088096132992","2025-03-12T15:08:35.724000+00:00"
 "url","http://64.94.84.217:8080","kongtuke","https://infosec.exchange/@monitorsg/114154330959768876","2025-03-13T09:07:36.691000+00:00"
@@ -61,4 +55,5 @@ type,value,event_tag,comment,first_seen
 "url","https://tecnogrup.com/js.php","kongtuke","https://infosec.exchange/@monitorsg/114188782986122464","2025-03-19T11:09:12.885000+00:00"
 "url","https://tecnogrup.com/4q7u.js","kongtuke","https://infosec.exchange/@monitorsg/114188782986122464","2025-03-19T11:09:12.885000+00:00"
 "domain","tecnogrup.com","kongtuke","https://infosec.exchange/@monitorsg/114188782986122464","2025-03-19T11:09:12.885000+00:00"
+"url","https://tecnogrup.com/1q2w.js","kongtuke","https://infosec.exchange/@monitorsg/114189253322788101","2025-03-19T13:08:49.660000+00:00"
 
