@@ -1,6 +1,4 @@
 type,value,event_tag,comment,first_seen
-"ip-dst","144.202.18.225","SocGholish","https://infosec.exchange/@monitorsg/114150088096132992","2025-03-12T15:08:35.724000+00:00"
-"domain","webmail.denver-computer.com","SocGholish","https://infosec.exchange/@monitorsg/114150088096132992","2025-03-12T15:08:35.724000+00:00"
 "url","http://64.94.84.217:8080","kongtuke","https://infosec.exchange/@monitorsg/114154330959768876","2025-03-13T09:07:36.691000+00:00"
 "url","https://cyberetc.com/4e7y.js","kongtuke","https://infosec.exchange/@monitorsg/114154330959768876","2025-03-13T09:07:36.691000+00:00"
 "url","https://cyberetc.com/js.php","kongtuke","https://infosec.exchange/@monitorsg/114154330959768876","2025-03-13T09:07:36.691000+00:00"
