@@ -173,9 +173,6 @@ type,value,event_tag,comment,first_seen
 "url","https://vessweb.com/6t4e.js","kongtuke","https://infosec.exchange/@monitorsg/114018673382677631","2025-02-17T10:08:06.336000+00:00"
 "domain","mgkwjihehqcknbp.top","kongtuke","https://infosec.exchange/@monitorsg/114018673382677631","2025-02-17T10:08:06.336000+00:00"
 "domain","vessweb.com","kongtuke","https://infosec.exchange/@monitorsg/114018673382677631","2025-02-17T10:08:06.336000+00:00"
-"url","https://scanpaq.com/6t5t.js","kongtuke","https://infosec.exchange/@monitorsg/114016557586001336","2025-02-17T01:10:01.842000+00:00"
-"url","https://scanpaq.com/js.php","kongtuke","https://infosec.exchange/@monitorsg/114016557586001336","2025-02-17T01:10:01.842000+00:00"
-"domain","scanpaq.com","kongtuke","https://infosec.exchange/@monitorsg/114016557586001336","2025-02-17T01:10:01.842000+00:00"
 "ip-dst","62.60.154.114","SocGholish","stage 2","2024-12-01T00:00:00.000000+00:00"
 "domain","pluralism.themancav.com","SocGholish","stage 2","2024-12-01T00:00:00.000000+00:00"
 "ip-dst","216.146.25.130","SocGholish","stage 2","2024-12-01T00:00:00.000000+00:00"
@@ -380,4 +377,8 @@ type,value,event_tag,comment,first_seen
 "domain","training.preschoolproblems.com","SocGholish","https://infosec.exchange/@monitorsg/114183833437226970","2025-03-18T14:10:28.770000+00:00"
 "url","https://pastes.io/raw/47-65078-6","kongtuke","https://infosec.exchange/@monitorsg/114185254210081898","2025-03-18T20:11:48.041000+00:00"
 "domain","pastes.io","kongtuke","https://infosec.exchange/@monitorsg/114185254210081898","2025-03-18T20:11:48.041000+00:00"
+"url","https://kimjohan.com/5r1w.js","kongtuke","https://infosec.exchange/@monitorsg/114186421364793347","2025-03-19T01:08:37.411000+00:00"
+"url","https://kimjohan.com/js.php","kongtuke","https://infosec.exchange/@monitorsg/114186421364793347","2025-03-19T01:08:37.411000+00:00"
+"url","http://138.199.161.141:8080","kongtuke","https://infosec.exchange/@monitorsg/114186421364793347","2025-03-19T01:08:37.411000+00:00"
+"domain","kimjohan.com","kongtuke","https://infosec.exchange/@monitorsg/114186421364793347","2025-03-19T01:08:37.411000+00:00"
 
