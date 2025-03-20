@@ -1,10 +1,4 @@
 type,value,event_tag,comment,first_seen
-"ip-dst","194.180.191.17","smartapesg","https://infosec.exchange/@monitorsg/114155750696934259","2025-03-13T15:08:40.159000+00:00"
-"sha256","a64b563c17fda41331340e7149563cc3e992301b3ed6c498f3ccb59c7214a34a","smartapesg","https://infosec.exchange/@monitorsg/114155750696934259","2025-03-13T15:08:40.159000+00:00"
-"url","https://movtime76.shop/files/index.php","smartapesg","https://infosec.exchange/@monitorsg/114155750696934259","2025-03-13T15:08:40.159000+00:00"
-"url","https://movtime76.shop/files/original.js","smartapesg","https://infosec.exchange/@monitorsg/114155750696934259","2025-03-13T15:08:40.159000+00:00"
-"url","https://movtime76.shop/files/fis.php","smartapesg","https://infosec.exchange/@monitorsg/114155750696934259","2025-03-13T15:08:40.159000+00:00"
-"domain","movtime76.shop","smartapesg","https://infosec.exchange/@monitorsg/114155750696934259","2025-03-13T15:08:40.159000+00:00"
 "url","https://samaxwell.com/js.php","kongtuke","https://infosec.exchange/@monitorsg/114156223894105457","2025-03-13T17:09:00.576000+00:00"
 "url","https://samaxwell.com/1q2w.js","kongtuke","https://infosec.exchange/@monitorsg/114156223894105457","2025-03-13T17:09:00.576000+00:00"
 "domain","samaxwell.com","kongtuke","https://infosec.exchange/@monitorsg/114156223894105457","2025-03-13T17:09:00.576000+00:00"
