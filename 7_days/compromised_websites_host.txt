@@ -1,16 +1,16 @@
 # GustyDusty DriveBy Host file
-# Last Modified 2025-03-20T15:35:01.998477
+# Last Modified 2025-03-20T17:35:01.921706
 
 # kongtuke
-127.0.0.1  janhugo.com
-127.0.0.1  samaxwell.com
 127.0.0.1  kimjohan.com
-127.0.0.1  pastes.io
-127.0.0.1  tecnogrup.com
+127.0.0.1  opteme.com
 127.0.0.1  vononline.com
 127.0.0.1  vfclan.com
-127.0.0.1  opteme.com
 127.0.0.1  paulsss.com
+127.0.0.1  computertecs.com
+127.0.0.1  janhugo.com
+127.0.0.1  tecnogrup.com
+127.0.0.1  pastes.io
 
 # smartapesg
 127.0.0.1  glitterygadgets.shop
@@ -18,5 +18,5 @@
 # SocGholish
 127.0.0.1  my.kconsultinggroup.com
 127.0.0.1  mail.pacifictaxcounsel.com
-127.0.0.1  training.preschoolproblems.com
 127.0.0.1  login.icvpartners.com
+127.0.0.1  training.preschoolproblems.com
