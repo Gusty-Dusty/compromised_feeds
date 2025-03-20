@@ -1,8 +1,4 @@
 type,value,event_tag,comment,first_seen
-"url","http://64.94.84.217:8080","kongtuke","https://infosec.exchange/@monitorsg/114154330959768876","2025-03-13T09:07:36.691000+00:00"
-"url","https://cyberetc.com/4e7y.js","kongtuke","https://infosec.exchange/@monitorsg/114154330959768876","2025-03-13T09:07:36.691000+00:00"
-"url","https://cyberetc.com/js.php","kongtuke","https://infosec.exchange/@monitorsg/114154330959768876","2025-03-13T09:07:36.691000+00:00"
-"domain","cyberetc.com","kongtuke","https://infosec.exchange/@monitorsg/114154330959768876","2025-03-13T09:07:36.691000+00:00"
 "ip-dst","82.153.134.87","SocGholish","https://infosec.exchange/@monitorsg/114155512909280816","2025-03-13T14:08:11.809000+00:00"
 "domain","secure.lme-co.com","SocGholish","https://infosec.exchange/@monitorsg/114155512909280816","2025-03-13T14:08:11.809000+00:00"
 "ip-dst","194.180.191.17","smartapesg","https://infosec.exchange/@monitorsg/114155750696934259","2025-03-13T15:08:40.159000+00:00"
