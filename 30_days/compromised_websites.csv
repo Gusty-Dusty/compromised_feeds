@@ -352,4 +352,9 @@ type,value,event_tag,comment,first_seen
 "domain","ronsamuel.com","kongtuke","https://infosec.exchange/@monitorsg/114225115435114366","2025-03-25T21:09:02.059000+00:00"
 "ip-dst","209.141.53.134","SocGholish","https://infosec.exchange/@monitorsg/114229125876215077","2025-03-26T14:08:56.539000+00:00"
 "domain","music.homesalemedia.com","SocGholish","https://infosec.exchange/@monitorsg/114229125876215077","2025-03-26T14:08:56.539000+00:00"
+"url","https://inteklabs.com/js.php","kongtuke","https://infosec.exchange/@monitorsg/114229363068439690","2025-03-26T15:09:15.808000+00:00"
+"url","https://pastes.io/raw/33-96479-9","kongtuke","https://infosec.exchange/@monitorsg/114229363068439690","2025-03-26T15:09:15.808000+00:00"
+"url","https://inteklabs.com/2g6n.js","kongtuke","https://infosec.exchange/@monitorsg/114229363068439690","2025-03-26T15:09:15.808000+00:00"
+"domain","pastes.io","kongtuke","https://infosec.exchange/@monitorsg/114229363068439690","2025-03-26T15:09:15.808000+00:00"
+"domain","inteklabs.com","kongtuke","https://infosec.exchange/@monitorsg/114229363068439690","2025-03-26T15:09:15.808000+00:00"
 
