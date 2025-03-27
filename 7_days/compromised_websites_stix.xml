@@ -53,34 +53,12 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
 	xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	 id="ORGNAME:STIXPackage-a1974a95-5f8c-4d36-8c77-7b46d2eabb44" version="1.1.1" timestamp="2025-03-27T20:35:05.268007">
+	 id="ORGNAME:STIXPackage-60a1da37-dbe9-4b48-9cb9-6ca41b3fc02e" version="1.1.1" timestamp="2025-03-27T22:35:05.447088">
     <stix:STIX_Header>
         <stix:Title>Export from ORGNAME's MISP</stix:Title>
         <stix:Package_Intent xsi:type="stixVocabs:PackageIntentVocab-1.0">Threat Report</stix:Package_Intent>
     </stix:STIX_Header>
     <stix:Indicators>
-        <stix:Indicator id="ORGNAME:Indicator-64b2a4c5-a052-4081-ab1b-043f940bd842" timestamp="2025-03-20T22:30:02+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: https://loycos.com/6a9k.js (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>
-            <indicator:Description>https://infosec.exchange/@monitorsg/114197033920419846</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-64b2a4c5-a052-4081-ab1b-043f940bd842">
-                <cybox:Object id="ORGNAME:URI-64b2a4c5-a052-4081-ab1b-043f940bd842">
-                    <cybox:Properties xsi:type="URIObj:URIObjectType" type="URL">
-                        <URIObj:Value condition="Equals">https://loycos.com/6a9k.js</URIObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-20T22:30:02+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
         <stix:Indicator id="ORGNAME:Indicator-ac58888e-e5c4-4e91-8430-c8b2446b34ec" timestamp="2025-03-21T13:30:02+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: 45.77.113.152 (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">IP Watchlist</indicator:Type>
