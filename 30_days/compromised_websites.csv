@@ -355,4 +355,6 @@ type,value,event_tag,comment,first_seen
 "domain","pastes.io","kongtuke","https://infosec.exchange/@monitorsg/114229363068439690","2025-03-26T15:09:15.808000+00:00"
 "domain","inteklabs.com","kongtuke","https://infosec.exchange/@monitorsg/114229363068439690","2025-03-26T15:09:15.808000+00:00"
 "url","http://138.199.156.22:8080","kongtuke","https://infosec.exchange/@monitorsg/114229603027941016","2025-03-26T16:10:17.295000+00:00"
+"ip-dst","104.207.140.239","SocGholish","https://infosec.exchange/@monitorsg/114234550492780607","2025-03-27T13:08:29.620000+00:00"
+"domain","images.briansmallwood.com","SocGholish","https://infosec.exchange/@monitorsg/114234550492780607","2025-03-27T13:08:29.620000+00:00"
 
