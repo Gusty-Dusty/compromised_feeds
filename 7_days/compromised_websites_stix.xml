@@ -53,78 +53,12 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
 	xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	 id="ORGNAME:STIXPackage-17a85e3a-955d-4f51-9a78-3eeeccdd9a44" version="1.1.1" timestamp="2025-03-27T17:35:05.943152">
+	 id="ORGNAME:STIXPackage-a1974a95-5f8c-4d36-8c77-7b46d2eabb44" version="1.1.1" timestamp="2025-03-27T20:35:05.268007">
     <stix:STIX_Header>
         <stix:Title>Export from ORGNAME's MISP</stix:Title>
         <stix:Package_Intent xsi:type="stixVocabs:PackageIntentVocab-1.0">Threat Report</stix:Package_Intent>
     </stix:STIX_Header>
     <stix:Indicators>
-        <stix:Indicator id="ORGNAME:Indicator-250f7fcb-8017-4b20-bc13-36aa0a825734" timestamp="2025-03-20T20:30:02+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: https://loycos.com/1q2w.js (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>
-            <indicator:Description>https://infosec.exchange/@monitorsg/114196562688354791</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-250f7fcb-8017-4b20-bc13-36aa0a825734">
-                <cybox:Object id="ORGNAME:URI-250f7fcb-8017-4b20-bc13-36aa0a825734">
-                    <cybox:Properties xsi:type="URIObj:URIObjectType" type="URL">
-                        <URIObj:Value condition="Equals">https://loycos.com/1q2w.js</URIObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-20T20:30:02+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-84749340-9613-49bf-aa74-3ba62c29d453" timestamp="2025-03-20T20:30:02+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: https://loycos.com/js.php (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>
-            <indicator:Description>https://infosec.exchange/@monitorsg/114196562688354791</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-84749340-9613-49bf-aa74-3ba62c29d453">
-                <cybox:Object id="ORGNAME:URI-84749340-9613-49bf-aa74-3ba62c29d453">
-                    <cybox:Properties xsi:type="URIObj:URIObjectType" type="URL">
-                        <URIObj:Value condition="Equals">https://loycos.com/js.php</URIObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-20T20:30:02+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
-        <stix:Indicator id="ORGNAME:Indicator-261e9aba-6ae5-416e-a1cb-5f3c1c56958b" timestamp="2025-03-20T20:30:03+00:00" xsi:type='indicator:IndicatorType'>
-            <indicator:Title>Network activity: loycos.com (MISP Attribute)</indicator:Title>
-            <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">Domain Watchlist</indicator:Type>
-            <indicator:Description>https://infosec.exchange/@monitorsg/114196562688354791</indicator:Description>
-            <indicator:Valid_Time_Position/>
-            <indicator:Observable id="ORGNAME:Observable-261e9aba-6ae5-416e-a1cb-5f3c1c56958b">
-                <cybox:Object id="ORGNAME:DomainName-261e9aba-6ae5-416e-a1cb-5f3c1c56958b">
-                    <cybox:Properties xsi:type="DomainNameObj:DomainNameObjectType">
-                        <DomainNameObj:Value condition="Equals">loycos.com</DomainNameObj:Value>
-                    </cybox:Properties>
-                </cybox:Object>
-            </indicator:Observable>
-            <indicator:Confidence timestamp="2025-03-20T20:30:03+00:00">
-                <stixCommon:Value>High</stixCommon:Value>
-                <stixCommon:Description>Derived from MISP's IDS flag. If an attribute is marked for IDS exports, the confidence will be high, otherwise none</stixCommon:Description>
-            </indicator:Confidence>
-            <indicator:Producer>
-                <stixCommon:Identity>
-                    <stixCommon:Name>ORGNAME</stixCommon:Name>
-                </stixCommon:Identity>
-            </indicator:Producer>
-        </stix:Indicator>
         <stix:Indicator id="ORGNAME:Indicator-64b2a4c5-a052-4081-ab1b-043f940bd842" timestamp="2025-03-20T22:30:02+00:00" xsi:type='indicator:IndicatorType'>
             <indicator:Title>Network activity: https://loycos.com/6a9k.js (MISP Attribute)</indicator:Title>
             <indicator:Type xsi:type="stixVocabs:IndicatorTypeVocab-1.1">URL Watchlist</indicator:Type>
