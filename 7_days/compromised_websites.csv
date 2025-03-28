@@ -1,10 +1,4 @@
 type,value,event_tag,comment,first_seen
-"ip-dst","194.180.191.171","smartapesg","https://infosec.exchange/@monitorsg/114202647530163122","2025-03-21T21:55:09.045000+00:00"
-"sha256","3646788b8a13ae63138d8cb866a2a105673065098c012e32129371cf5ef1b818","smartapesg","https://infosec.exchange/@monitorsg/114202647530163122","2025-03-21T21:55:09.045000+00:00"
-"url","https://cryptohardware.shop/files/libeasier.js","smartapesg","https://infosec.exchange/@monitorsg/114202647530163122","2025-03-21T21:55:09.045000+00:00"
-"url","https://cryptohardware.shop/files/index.php","smartapesg","https://infosec.exchange/@monitorsg/114202647530163122","2025-03-21T21:55:09.045000+00:00"
-"url","https://cryptohardware.shop/files/fixxx.php","smartapesg","https://infosec.exchange/@monitorsg/114202647530163122","2025-03-21T21:55:09.045000+00:00"
-"domain","cryptohardware.shop","smartapesg","https://infosec.exchange/@monitorsg/114202647530163122","2025-03-21T21:55:09.045000+00:00"
 "domain","naybvyzvemm.top","TA582","ta569","2025-03-19T00:00:00.000000+00:00"
 "ip-dst","128.254.146.86","SocGholish","https://infosec.exchange/@monitorsg/114217566932943348","2025-03-24T13:09:21.065000+00:00"
 "domain","phpmyadmin.artisticglassstudio.com","SocGholish","https://infosec.exchange/@monitorsg/114217566932943348","2025-03-24T13:09:21.065000+00:00"
